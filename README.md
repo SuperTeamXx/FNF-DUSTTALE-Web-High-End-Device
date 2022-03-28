@@ -3,6 +3,6 @@
 Anthropophobia works now
 # This version is for higher end devices that can handle more stuff. If you have an old phone or a lower end device go [here](https://github.com/SuperTeamXP/FNF-DUSTTALE-Web-Low-End-Device)
 
-This is property of SuperTeamXP 
+This HTML5 port is property of SuperTeamXP 
 
 Please do not fork this repository without acknowledging me
